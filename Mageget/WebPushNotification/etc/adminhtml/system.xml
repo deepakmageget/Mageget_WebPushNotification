@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+       <tab id="mageget_webpush" translate="label" sortOrder="250" class="mageget-tab">
+            <label>mageget</label>
+        </tab>
+
+        <section id="webpushnotification" translate="label" sortOrder="150" showInDefault="1" showInWebsite="1" showInStore="1">
+            <class>mageget-separator</class>
+            <label>Web Push Notification</label>
+            <tab>mageget_webpush</tab>
+            <resource>Mageget_WebPushNotification::configuration</resource>
+          <group id="general" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="0" showInStore="0">
+                <label>Configuration</label>
+                <field id="enable" translate="label" type="select" sortOrder="1" showInDefault="1" showInWebsite="0" showInStore="0">
+                    <label>Enable Module</label>
+                    <source_model>Magento\Config\Model\Config\Source\Enabledisable</source_model>
+                </field>
+            </group>
+
+
+    <group id="mageget_webpushemail" translate="label" type="text" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>Mageget Webpush Email Configuration</label>
+                <depends><field id="*/general/enable">1</field></depends>
+                
+                <field id="webpush_name" translate="label" type="text" sortOrder="1" showInDefault="1" showInWebsite="1" showInStore="0">
+                <label>Company Name</label>
+                    <validate>required</validate>
+                    <depends>
+                        <field id="Mageget/WebPushNotification/status">1</field>
+                    </depends>
+                </field>
+                
+                <field id="webpush_email" translate="label comment" type="text" sortOrder="2" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Company Email</label>
+                     <validate>required</validate>
+                   <depends>
+                        <field id="Mageget/WebPushNotification/status">1</field>
+                    </depends>
+                </field>
+
+                <field id="webpush_email_template_id" translate="label comment" type="text" sortOrder="2" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Email Template Id </label>
+                     <validate>required</validate>
+                   <depends>
+                        <field id="Mageget/WebPushNotification/status">1</field>
+                    </depends>
+                </field>
+            
+            </group>
+
+            <!-- <group id="webpushgeneral" translate="label" type="text" sortOrder="30" showInDefault="1" showInWebsite="1"
+                   showInStore="1">
+                <label>WebPush Scheduler</label>
+                <field id="frequency" translate="label" type="select" sortOrder="1" showInDefault="1" showInWebsite="0"
+                       showInStore="0">
+                    <label>Frequency</label>
+                    <source_model>Magento\Cron\Model\Config\Source\Frequency</source_model>
+                    <backend_model>Mageget\WebPushNotification\Model\Config\Cronconfig</backend_model>
+                </field>
+                <field id="time" translate="label comment" sortOrder="2" type="time" showInDefault="1" showInWebsite="1"
+                       showInStore="1">
+                    <label>Start Time</label>
+                </field>
+
+                <field id="templatelist" translate="label" type="multiselect" sortOrder="40" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Select Email Template </label>
+                    <source_model>Mageget\WebPushNotification\Model\Options\EmailTemplateList</source_model>
+                    <validate>validate-select</validate>
+                   
+                </field>
+
+            </group> -->
+
+
+
+
+
+
+
+
+        </section>  
+      
+
+    </system>
+</config>

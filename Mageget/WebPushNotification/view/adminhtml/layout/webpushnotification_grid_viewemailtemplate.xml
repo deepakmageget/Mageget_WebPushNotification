@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+<head>
+     <title>
+        Template View
+     </title>
+</head>
+<body>
+     <referenceContainer name="content">
+     <uiComponent name="webpush_template_view_button"/>
+       <block class="Mageget\WebPushNotification\Block\Adminhtml\Grid\Templateview" name="mageget_template_view" template="Mageget_WebPushNotification::webtemplate.phtml" />
+     </referenceContainer>
+</body>
+</page>
+
+

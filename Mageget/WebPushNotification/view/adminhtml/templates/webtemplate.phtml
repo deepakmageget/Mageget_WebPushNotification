@@ -1,0 +1,18 @@
+
+<?php 
+
+$blockObj= $block->getLayout()->createBlock('\Mageget\WebPushNotification\Block\Adminhtml\Grid\Templateview');
+$rowId = (int) $this->getRequest()->getParam('entity_id'); 
+?>
+<?php
+
+
+$id= (int)$rowId;
+$order = $blockObj->getEmailTemplate($id);
+
+// echo "<pre>";
+print_r($order->getData('content'));
+
+?>
+<br/>
+<br/>

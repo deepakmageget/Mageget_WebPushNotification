@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Mageget_WebPushNotification::manager" title="Mageget" module="Mageget_WebPushNotification" sortOrder="10" resource="Mageget_WebPushNotification::manager"/>
+
+      <add id="Mageget_WebPushNotification::add_row" title="Web Push Notification" 
+        module="Mageget_WebPushNotification"
+         sortOrder="20" 
+         parent="Mageget_WebPushNotification::manager" 
+         action="webpushnotification/grid/index" 
+         resource="Mageget_WebPushNotification::add_row"/>
+  
+        <add id="Mageget_WebPushNotification::settings" 
+        title="Settings" translate="title" 
+        module="Mageget_WebPushNotification" 
+        parent="Mageget_WebPushNotification::manager" 
+        sortOrder="60" 
+        dependsOnModule="Mageget_WebPushNotification" 
+        resource="Mageget_WebPushNotification::settings"/>
+
+        <add id="Mageget_WebPushNotification::add_row_configuration"
+                title="Configuration"
+                resource="Magento_Backend::content"
+                module="Mageget_WebPushNotification"
+                sortOrder="70"
+                action="admin/system_config/edit/section/webpushnotification/"
+                parent="Mageget_WebPushNotification::settings" />
+
+        <add id="Mageget_WebPushNotification::WebPushNotification_Readmore"
+                title="Readme"
+                resource="Magento_Backend::content"
+                module="Mageget_WebPushNotification"
+                sortOrder="80"
+                action="webpushnotification/grid/readme"
+                parent="Mageget_WebPushNotification::settings" />
+      
+    </menu>
+</config>

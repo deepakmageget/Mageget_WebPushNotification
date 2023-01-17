@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+<head>
+     <title>
+       Read me : Install Module and follow Bellow Steps - 
+     </title>
+</head>
+<body>
+     <referenceContainer name="content">
+       <uiComponent name="webpush_template_view_button"/>
+       <block class="Magento\Framework\View\Element\Template" name="mageget_template_readme" template="Mageget_WebPushNotification::readme.phtml" />
+     </referenceContainer>
+</body>
+</page>
+
+

@@ -1,0 +1,145 @@
+
+
+<p> <b>Step 1 ) :</b> Go To Admin>Marketing>Email Template </p>
+<br>
+<img src="https://i.ibb.co/QXY7Z3q/download-1.png" width="1200" height="550" alt="">
+<br><br>
+<p> <b>Step 2 ) :</b> Click Add New Template  Button</p>
+<br>
+<img src="https://i.ibb.co/vkRxs24/download-2.png" width="1200" height="550" alt="">
+<br><br>
+<p><b>Step 3 ) :</b> Click Add New Template  Button</p>
+<br>
+<img src="https://i.ibb.co/2gcLpRK/Screenshot-2.png" width="1200" height="550" alt="">
+
+<br><br>
+<p><b>Step 4 ) :</b>  Copy Code and Paste in : Template Subject</p>
+<br>
+<textarea name="" id="" cols="100" rows="1">
+{{trans "%eventName" eventName=$data.eventName|raw}}
+</textarea>
+
+<br>
+<br>
+
+<br>
+<p><b>Step 5 ) :</b> Copy Code and Paste in : Template Content</p>
+<br>
+<textarea name="" id="" cols="100" rows="10">
+	
+{{template config_path="design/email/header_template"}}
+
+{{depend data.textcontent}}
+{{trans "%textcontent" textcontent=$data.textcontent|raw}}
+{{/depend}}
+
+{{depend data.templateData}}
+{{trans "%templateData" templateData=$data.templateData|raw}}
+{{/depend}}
+
+{{template config_path="design/email/footer_template"}}
+</textarea>
+
+<br>
+<br>
+
+<hr>
+<p> <b>Step 6 ) :</b> Change Your Company Name & Company Email and Email TemplateId Go to :</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> Store/Configuration/Mageget/Web Push Notification</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> Here Email TemplateId is above TemplateId which you have just created above.</p>
+
+<br>
+<img src="https://i.ibb.co/4SChFtH/Screenshot-1.png" width="1200" height="550" alt="">
+<br><br>
+<hr>
+<br>
+<img src="https://i.ibb.co/6s3Jv60/Screenshot-2.png" width="1200" height="550" alt="">
+<br><br>
+<hr>
+
+<br>
+<br>
+
+<div class="text-left">
+	<h1>Create beautiful emails and landing pages, fast.</h1>
+	<h3>BEE is the best drag & drop editor for designing mobile responsive emails and landing pages.</h3>
+	<br>
+	<br>
+	<hr>
+	<a href="https://beefree.io/" target="_BLANK">START DESIGNING</a>
+	<hr>
+	<ul>
+		<li>
+No coding : skills required
+</li>
+<li>
+	
+Mobile responsive : emails
+
+
+</li> 
+<li>
+	Export : anywhere
+</li>
+	</ul>
+
+	<br>
+
+	<h3>Start with a beautiful, mobile-responsive template
+</h3>
+<p>
+	Start with a blank canvas to build your email from scratch
+Or kickstart your design process with one of our ready-to-go email templates.
+</p>
+<hr>
+	<a href="https://beefree.io/" target="_BLANK">START DESIGNING</a>
+	<hr>
+</div>
+<br>
+<br>
+
+
+
+<div class="templatecatlist">
+	<h2>Here 200+ Popular Categories & 2000+ Popular templates Like : </h2>
+	<ul>
+	<li>Professional</li>
+	<li>Black Friday Email Templates</li>
+	<li>Small Business Saturday Email Templates</li>
+	<li>Cyber Monday Email Templates</li>
+	<li>Christmas Email Templates</li>
+	<li>New Year Email Templates</li>
+	<li>Small Business</li>
+	<li>Notification</li>
+	<li>Computer & Internet</li>
+</ul>
+<ul>
+	<li>Events</li>
+	<li>E-commerce Set</li>
+	<li>Business Services</li>
+	<li>Product Promotion</li>
+	<li>Health & Wellness</li>
+	<li>Marketing & Design</li>
+	<li>Transactional</li>
+	<li>Welcome Series Set</li>
+	<li>Event Set</li>
+	<li>Real Estate Set</li>
+	<li>Survey Management Set</li>
+</ul>
+
+</div>
+
+<style>
+	.templatecatlist ul {
+    display: float;
+    float: left;
+    padding: 20px;
+}
+</style>
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+
+.admin__menu #menu-mageget-webpushnotification-manager>a:before {
+    content: ''!important;
+    background: url('https://i.ibb.co/Sdps1Wz/logo.png') no-repeat center !important;
+    background-size: 26px!important;
+    margin: 0 auto 0.3rem auto!important;
+} 
+
+.config-nav .mageget-tab .admin__page-nav-title:before {
+    content: ''!important;
+    background: url('https://i.ibb.co/Sdps1Wz/logo.png') no-repeat 0 0!important;
+    background-size: contain!important;
+    display: block!important;
+    width: 30px!important;
+    height: 30px!important;
+    margin-right: 10px!important;
+    float: left!important;
+    margin-top: -5px!important;
+}

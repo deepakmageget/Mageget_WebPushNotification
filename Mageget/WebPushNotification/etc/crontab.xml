@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Cron:etc/crontab.xsd">
+ 
+    <group id="default">
+<!-- 
+        <job name="custom_cronjob_on_minute" instance="Mageget\WebPushNotification\Cron\EmailTemplateSendToCustomer" method="execute">
+            <schedule>* * * * *</schedule>
+        </job> -->
+        <job name="custom_cronjob_on_day" instance="Mageget\WebPushNotification\Cron\EmailTemplateSendToCustomer" method="sendDailyBasis">
+            <schedule>0 0 * * *</schedule>
+        </job>
+        <job name="custom_cronjob_on_weakly" instance="Mageget\WebPushNotification\Cron\EmailTemplateSendToCustomer" method="sendWeeklyBasis">
+            <schedule>0 0 * * 0</schedule>
+        </job>
+
+        <job name="custom_cronjob_on_month" instance="Mageget\WebPushNotification\Cron\EmailTemplateSendToCustomer" method="sendMonthlyBasis">
+            <schedule>0 0 1 * *</schedule>
+        </job>
+    </group>
+</config>
