@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td>
-  This is module for use email marketing of your magento2 store . it is very helpfull module to send product email template to our customer basis on the Customer Email, Customer Country and Customer Group. this module to help Automatic Send product email template sheduled By Day, sheduled By Week and sheduled By Month Selected By Customer Group. 
+This is module for use email marketing of your magento2 store . it is very helpfull module to send product email template to your registered customer basis on the Customer Email, Customer Country and Customer Group. this module to help Automatic Send product email template sheduled By Day, sheduled By Week and sheduled By Month Selected By Customer Group. 
 </td>
 </tr>
 </table>
