@@ -11,17 +11,12 @@
 </table>
 
 
-### Demo
+
 Here is a working live demo :  https://github.com/deepakmageget/Mageget_WebPushNotification
-
+### Screenshot
 ![](https://i.ibb.co/bXshjZM/Screenshot-3.png)
-
 ![](https://i.ibb.co/FzJxhm9/Screenshot-4.png)
-
 ![](https://i.ibb.co/BwMGhr9/Screenshot-5.png)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
 
 
 ## Site
