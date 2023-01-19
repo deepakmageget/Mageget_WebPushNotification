@@ -15,6 +15,8 @@
 Here is a working live demo :  https://github.com/deepakmageget/Mageget_WebPushNotification
 
 ![](https://i.ibb.co/xjNdhgC/screencapture-mail-google-mail-u-0-2023-01-19-18-49-58.png)
+![](https://i.ibb.co/xjNdhgC/screencapture-mail-google-mail-u-0-2023-01-19-18-49-58.png)
+![](https://i.ibb.co/xjNdhgC/screencapture-mail-google-mail-u-0-2023-01-19-18-49-58.png)
 ![](https://i.ibb.co/9H6BZM1/33333.png)
 ![](https://i.ibb.co/RN2JK8d/3333344.png)
 
