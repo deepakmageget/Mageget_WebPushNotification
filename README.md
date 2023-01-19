@@ -57,8 +57,8 @@ To Use this module and Get Lot of Traffic to your WebApp Using Sending Email Tem
 
 [![Deepak Kumar Bind](https://i.ibb.co/2F6BM4T/dsfsdfsdfsd.png)](https://github.com/iharsh234) 
 
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
+[Harsh Vijay ](https://github.com/deepakmageget)
 
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
+## [License](#)
 
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
+MIT © [Deepak Kumar Bind ](https://github.com/deepakmageget)
