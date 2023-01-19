@@ -5,15 +5,16 @@
 <table>
 <tr>
 <td>
-This is module for use email marketing of your magento2 store . it is very helpfull module to send product email template to your registered customer basis on the Customer Email, Customer Country and Customer Group. this module to help Automatic Send product email template sheduled By Day, sheduled By Week and sheduled By Month Selected By Customer Group. 
+  This is module for use email marketing of your magento2 store . it is very helpfull module to send product email template to your registered customer basis on the Customer Email, Customer Country and Customer Group. this module to help Automatic Send product email template sheduled By Day, sheduled By Week and sheduled By Month Selected By Customer Group. 
 </td>
 </tr>
 </table>
 
 
 ## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
+Here is a working live demo :  https://github.com/deepakmageget/Mageget_WebPushNotification
 
+![](https://i.ibb.co/xjNdhgC/screencapture-mail-google-mail-u-0-2023-01-19-18-49-58.png)
 
 ## Site
 
