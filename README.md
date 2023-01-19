@@ -24,6 +24,11 @@ Click Add New Event - Fill Form
 
 ![](https://i.ibb.co/DMFrPbS/45.png)
 ![](https://i.ibb.co/gS4RJLT/46.png)
+![](https://i.ibb.co/92PG8Q6/48.png)
+![](https://i.ibb.co/dpWWMsJ/49.png)
+
+
+
 
 ### Query Filled Form
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
