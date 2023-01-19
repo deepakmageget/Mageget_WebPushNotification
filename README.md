@@ -1,11 +1,11 @@
 
 # WebPushNotification Module for Email Marketing in Magento2
 # ![WebApp](https://i.ibb.co/DrLGqh8/Screenshot-1.png)
-# WebApp
+# Extension Description 
 <table>
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+  This is module for use email marketing of your magento2 store . it is very helpfull module to send product email template to our customer basis on the Customer Email, Customer Country and Customer Group. this module to help Automatic Send product email template sheduled By Day, sheduled By Week and sheduled By Month Selected By Customer Group. 
 </td>
 </tr>
 </table>
