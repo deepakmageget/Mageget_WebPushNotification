@@ -45,20 +45,7 @@ To Use this module and Get Lot of Traffic to your WebApp Using Sending Email Tem
 - Send Email By Customer Email
 - Send Email By Customer Group
 - Send Email By Customer Country
-- Send Email By Sheduled on : (`Day, Week, Month`)
-
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
-
-
-## Built with 
-
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
+- Send Email By Sheduled on : (`Day, Week, Month`) Autometically
 
 
 ## To-do
@@ -68,7 +55,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
+[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://i.ibb.co/7SWx4sr/121122430.png)](https://www.quandl.com/)
 ---|---
 [Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
 
