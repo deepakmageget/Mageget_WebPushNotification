@@ -32,41 +32,20 @@ Click Add New Event - Fill Form
 ![](https://i.ibb.co/PjDgmV4/53.png)
 
 
+## [Usage](#) 
 
+### Main Feature of WebPushNotification Module : 
 
+The Main Feature Of this Module Is : 
 
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+To Use this module and Get Lot of Traffic to your WebApp Using Sending Email To Your Store Customer:
 
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
-
-
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
-
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
-
-
-
-
-## [Usage](https://iharsh234.github.io/WebApp/) 
-
-### Development
-Want to contribute? Great!
-
-To fix a bug or enhance an existing module, follow these steps:
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
+- Send Product Email Template
+- Send Any Event Email Template 
+- Send Email Template By Customer Email
+- Send Email Template By Customer Group
+- Send Email Template By Customer Country
+- Send Email Template By Sheduled on : (`Day, Week, Month`)
 
 ### Bug / Feature Request
 
