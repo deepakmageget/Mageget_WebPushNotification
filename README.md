@@ -38,14 +38,14 @@ Click Add New Event - Fill Form
 
 The Main Feature Of this Module Is : 
 
-To Use this module and Get Lot of Traffic to your WebApp Using Sending Email To Your Store Customer:
+To Use this module and Get Lot of Traffic to your WebApp Using Sending Email Template To Your Store Customer:
 
 - Send Product Email Template
 - Send Any Event Email Template 
-- Send Email Template By Customer Email
-- Send Email Template By Customer Group
-- Send Email Template By Customer Country
-- Send Email Template By Sheduled on : (`Day, Week, Month`)
+- Send Email By Customer Email
+- Send Email By Customer Group
+- Send Email By Customer Country
+- Send Email By Sheduled on : (`Day, Week, Month`)
 
 ### Bug / Feature Request
 
