@@ -13,7 +13,7 @@
 
 
 Here is a working live demo :  https://github.com/deepakmageget/Mageget_WebPushNotification
-### Screenshot
+### Charts
 ![](https://i.ibb.co/bXshjZM/Screenshot-3.png)
 ![](https://i.ibb.co/FzJxhm9/Screenshot-4.png)
 ![](https://i.ibb.co/BwMGhr9/Screenshot-5.png)
@@ -71,6 +71,11 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
 - [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
 
+
+### Charts
+![](https://i.ibb.co/bXshjZM/Screenshot-3.png)
+![](https://i.ibb.co/FzJxhm9/Screenshot-4.png)
+![](https://i.ibb.co/BwMGhr9/Screenshot-5.png)
 
 ## To-do
 - Add BSE (India) Symbol to the current App.
