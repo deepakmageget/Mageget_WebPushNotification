@@ -27,6 +27,9 @@ Click Add New Event - Fill Form
 ![](https://i.ibb.co/92PG8Q6/48.png)
 ![](https://i.ibb.co/dpWWMsJ/49.png)
 ![](https://i.ibb.co/r0Xg1W4/50.png)
+![](https://i.ibb.co/D7DdFry/51.png)
+![](https://i.ibb.co/Mh0hRzG/52.png)
+
 
 
 
