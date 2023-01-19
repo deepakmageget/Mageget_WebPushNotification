@@ -18,12 +18,11 @@ Here is a working live demo :  https://github.com/deepakmageget/Mageget_WebPushN
 ![](https://i.ibb.co/7K9bbFQ/dsfsdfsdfsdfsdffsdfsdfsdfsd.png)
 
 
-## Site
+## Add New Event
+### How to Add New Event Email Template 
+Click Add Event - Fill Form
 
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
-
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+![](https://i.ibb.co/DMFrPbS/45.png)
 
 ### Query Filled Form
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
