@@ -55,9 +55,9 @@ To Use this module and Get Lot of Traffic to your WebApp Using Sending Email Tem
 
 ## Team
 
-[![Deepak Kumar Bind](https://i.ibb.co/2F6BM4T/dsfsdfsdfsd.png)](https://github.com/iharsh234) 
+[![Deepak Kumar Bind](https://i.ibb.co/2F6BM4T/dsfsdfsdfsd.png)](https://github.com/deepakmageget) 
 
-[Harsh Vijay ](https://github.com/deepakmageget)
+[Deepak Kumar Bind ](https://github.com/deepakmageget)
 
 ## [License](#)
 
