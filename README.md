@@ -18,11 +18,12 @@ Here is a working live demo :  https://github.com/deepakmageget/Mageget_WebPushN
 ![](https://i.ibb.co/7K9bbFQ/dsfsdfsdfsdfsdffsdfsdfsdfsd.png)
 
 
-## Add New Event
+## How To Add and Edit New Event
 ### How to Add New Event Email Template 
-Click Add Event - Fill Form
+Click Add New Event - Fill Form
 
 ![](https://i.ibb.co/DMFrPbS/45.png)
+![](https://i.ibb.co/gS4RJLT/46.png)
 
 ### Query Filled Form
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
@@ -36,6 +37,7 @@ Click Add Event - Fill Form
 ## Mobile support
 The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
+![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
 ![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
 
 
