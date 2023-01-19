@@ -16,7 +16,6 @@ Here is a working live demo :  https://github.com/deepakmageget/Mageget_WebPushN
 ### Screenshot
 ![](https://i.ibb.co/bXshjZM/Screenshot-3.png)
 ![](https://i.ibb.co/FzJxhm9/Screenshot-4.png)
-![](https://i.ibb.co/BwMGhr9/Screenshot-5.png)
 
 
 ## Site
