@@ -1,5 +1,6 @@
-# Mageget_WebPushNotification
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+
+# WebPushNotification Module for Email Marketing in Magento2
+# ![WebApp](https://i.ibb.co/DrLGqh8/Screenshot-1.png)
 # WebApp
 <table>
 <tr>
@@ -81,4 +82,3 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
 MIT © [Harsh Vijay ](https://github.com/iharsh234)
-
